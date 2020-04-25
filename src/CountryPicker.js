@@ -25,10 +25,10 @@ import {
   Modal,
   Text,
   TextInput,
-  ListView,
   ScrollView,
   Platform,
 } from 'react-native';
+import ListView from 'deprecated-react-native-listview'
 
 import Fuse from 'fuse.js';
 
